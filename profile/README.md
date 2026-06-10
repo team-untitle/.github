@@ -1,1 +1,1 @@
-## ORGANIZATION README SAMPLE
+## 무딧 (Moodit)
